@@ -14,7 +14,7 @@ Greetings, I am a recent graduate from the School of Computer Science at XIM Uni
 
 Through my coursework, I have gained extensive knowledge working with a diverse range of technologies, particularly in the field of data science. This has allowed me to develop a comprehensive skill set that empowers me to drive innovation. I possess capability in various areas within data science, enabling me to effectively analyze and extract valuable insights from complex datasets. I am adept at utilizing cutting-edge tools and techniques to derive meaningful conclusions and make informed decisions.
 
-# Experience
+**Experience**
 ======
 
 ## Research Fellow
