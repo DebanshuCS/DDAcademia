@@ -21,4 +21,4 @@ Greetings, I am a recent graduate from the School of Computer Science at XIM Uni
 - TensorFlow
 - PyTorch
 
-Feel free to explore my portfolio to see examples of projects and applications I've developed using these technologies.
+Feel free to explore my portfolio to see examples of projects I've developed using these technologies.
