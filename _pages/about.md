@@ -33,4 +33,3 @@ One area of my research involves developing predictive models for healthcare app
 Another aspect of my research focuses on natural language processing (NLP) and text mining. I am intrigued by the power of NLP techniques to extract valuable information from unstructured text data. By applying advanced algorithms, I aim to develop automated systems that can analyze and summarize large volumes of text, enabling faster and more efficient decision-making processes.
 
 Overall, my research is driven by a curiosity to explore the untapped potential of data science and its applications in various domains. I am committed to continuous learning and staying up-to-date with the latest advancements in the field. Through my research, I strive to contribute to the advancement of knowledge and make a meaningful impact on the world.
-
