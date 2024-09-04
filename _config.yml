@@ -12,7 +12,7 @@ title                    : "Debanshu"
 title_separator          : "-"
 name                     : &name "Debanshu Das"
 description              : &description "personal description"
-url                      : https://debanshucs.github.io/DDAcademia/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://debanshucs.github.io/DDAcademia/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/DebanshuCS/Debanshu_Das.github.io"
 
@@ -21,7 +21,7 @@ repository               : "https://github.com/DebanshuCS/Debanshu_Das.github.io
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "_portfolio\1722028459260.jpeg"
+  avatar           : "<img src='/images/1722028459260.jpeg'>"
   name             : "Debanshu Das"
   pronouns         : # example: "she/her"  
   bio              : "Innovating research on critical infrastructure security, one project at a time. Passionate about enhancing cybersecurity through advanced methodologies in process mining, attack graphs, and AI-driven threat analysis."
