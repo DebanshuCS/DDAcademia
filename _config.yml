@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Debanshu Das"
+title                    : "Debanshu"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Debanshu Das"
 description              : &description "personal description"
 url                      : https://debanshucs.github.io/DDAcademia/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,10 +21,10 @@ repository               : "https://github.com/DebanshuCS/Debanshu_Das.github.io
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "_portfolio\1722028459260.jpeg"
+  name             : "Debanshu Das"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Innovating research on critical infrastructure security, one project at a time. Passionate about enhancing cybersecurity through advanced methodologies in process mining, attack graphs, and AI-driven threat analysis."
   location         : "Bhubaneswar"
   employer         : "XIMB"
   uri              : # URL
@@ -32,23 +32,22 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=vMFxbu4AAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0006-6751-7882"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "DebanshuCS"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -59,7 +58,7 @@ author:
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
-  medium           : # URL
+  medium           : Debanshu Das
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
@@ -75,8 +74,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+  #books:
+   # title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
@@ -129,7 +128,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
