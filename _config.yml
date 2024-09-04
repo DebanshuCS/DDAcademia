@@ -21,7 +21,7 @@ repository               : "https://github.com/DebanshuCS/Debanshu_Das.github.io
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "<img src='/images/1722028459260.jpg'>"
+  avatar           : "images\ profilep.png"
   name             : "Debanshu Das"
   pronouns         : # example: "she/her"  
   bio              : "Innovating research on critical infrastructure security, one project at a time. Passionate about enhancing cybersecurity through advanced methodologies in process mining, attack graphs, and AI-driven threat analysis."
