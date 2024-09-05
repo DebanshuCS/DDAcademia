@@ -9,10 +9,6 @@ redirect_from:
 
 Greetings, I am a recent graduate from the School of Computer Science at XIM University. Currently, I am engaged in a Sponsored Research Fellowship at BITS Pilani, Goa Campus. I extend a warm welcome to you as you peruse my portfolio. My primary area of specialization lies within the field of Data Science, where I have dedicated significant time and effort to honing my expertise. I am excited to showcase the depth of my knowledge and the breadth of my experience in this dynamic field. Thank you for taking the time to explore my portfolio; I trust it will offer valuable insights into my accomplishments.
 
-**Technologies**
-======
-
-Through my coursework, I have gained extensive knowledge working with a diverse range of technologies, particularly in the field of data science. This has allowed me to develop a comprehensive skill set that empowers me to drive innovation. I possess capability in various areas within data science, enabling me to effectively analyze and extract valuable insights from complex datasets. I am adept at utilizing cutting-edge tools and techniques to derive meaningful conclusions and make informed decisions.
 
 **Technologies**
 ======
@@ -22,7 +18,7 @@ Through my coursework, I have gained extensive knowledge working with a diverse 
 <div style="display: flex; align-items: center; gap: 20px;">
     <div style="text-align: center;">
         <img src="images/deep-learning.png" alt="Deep Learning Icon" width="30"/>
-        <div>**Deep Learning**</div>
+        <div>Deep Learning</div>
     </div>
     <div style="text-align: center;">
         <img src="images/Attack graph.png" alt="Attack Graph Icon" width="30"/>
@@ -33,6 +29,8 @@ Through my coursework, I have gained extensive knowledge working with a diverse 
         <div>**Cyber Risk Management**</div>
     </div>
 </div>
+
+<br/><br/> <!-- Adds two line breaks for extra space -->
 
 **Experience**
 ======
