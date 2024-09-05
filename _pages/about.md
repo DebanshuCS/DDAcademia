@@ -18,15 +18,15 @@ Through my coursework, I have gained extensive knowledge working with a diverse 
 <div style="display: flex; align-items: center; gap: 20px;">
     <div style="text-align: center;">
         <img src="images/deep-learning.png" alt="Deep Learning Icon" width="30"/>
-        <div>Deep Learning</div>
+        <div style="font-weight: bold;">Deep Learning</div>
     </div>
     <div style="text-align: center;">
         <img src="images/Attack graph.png" alt="Attack Graph Icon" width="30"/>
-        <div>**Attack Graph**</div>
+        <div style="font-weight: bold;">Attack Graph</div>
     </div>
     <div style="text-align: center;">
         <img src="images/cloud.png" alt="Cyber Risk Management Icon" width="30"/>
-        <div>**Cyber Risk Management**</div>
+        <div style="font-weight: bold;">Cyber Risk Management</div>
     </div>
 </div>
 
