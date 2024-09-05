@@ -30,7 +30,7 @@ Through my coursework, I have gained extensive knowledge working with a diverse 
     </div>
 </div>
 
-<br/><br/> <!-- Adds two line breaks for extra space -->
+<br/><!-- Adds two line breaks for extra space -->
 
 **Experience**
 ======
