@@ -6,7 +6,7 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Implemented an innovative approach to evaluate cyber risks through a behavioural model of an e-commerce system and conducted the prediction of novel exploits potentially extending from the system.
 date: 2024-08-01
 venue: '29th IEEE Pacific Rim International Symposium on Dependable Computing (PRDC 2024)'
-#slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'In-Review'
 citation: 'In-Review'
 ---
