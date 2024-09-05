@@ -5,7 +5,7 @@ Name Name:
   uri         : "http://name.com"
   email       : "name@name.com"
   bio         : "DD"
-  avatar      : "profilep.png"
+  avatar      : "images/profilep.png"
   #twitter     : "name"
   #google_plus : "Name"
 
