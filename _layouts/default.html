@@ -1,7 +1,6 @@
 ---
 layout: compress
 ---
-<button id="dark-mode-toggle">Toggle Dark Mode</button>
 
 {% include base_path %}
 
@@ -30,22 +29,3 @@ layout: compress
 
   </body>
 </html>
-
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    const toggleButton = document.getElementById('dark-mode-toggle');
-    const currentTheme = localStorage.getItem('theme') || 'light';
-    document.documentElement.setAttribute('data-theme', currentTheme);
-
-    toggleButton.addEventListener('click', function() {
-      let theme = document.documentElement.getAttribute('data-theme');
-      if (theme === 'light') {
-        document.documentElement.setAttribute('data-theme', 'dark');
-        localStorage.setItem('theme', 'dark');
-      } else {
-        document.documentElement.setAttribute('data-theme', 'light');
-        localStorage.setItem('theme', 'light');
-      }
-    });
-  });
-</script>

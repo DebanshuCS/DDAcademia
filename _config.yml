@@ -6,8 +6,7 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 # Include additional CSS
-include:
-  - assets/css/dark-mode.css
+
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "DD"
