@@ -1,0 +1,16 @@
+/* Dark mode styles */
+:root {
+    --background-color: #ffffff;
+    --text-color: #000000;
+  }
+  
+  [data-theme='dark'] {
+    --background-color: #1e1e1e;
+    --text-color: #f1f1f1;
+  }
+  
+  body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+  }
+  
