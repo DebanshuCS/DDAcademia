@@ -7,4 +7,3 @@ redirect_to: "https://cyan-opal-87.tiiny.site/"
 ---
 
 {% include base_path %}
-
