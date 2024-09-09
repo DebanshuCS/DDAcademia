@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "HR Planes"
+excerpt: "Designed a novel object detection model to automatically detect airplanes in high-resolution satellite images, using Google Earth imagery under various landscape, seasonal, and satellite geometry conditions. The dataset was evaluated using two state-of-the-art object detection methods. Incorporated advanced techniques such as hyperparameter tuning, optimization algorithm, and data augmentation to improve model precision. Attained excellent accuracy of 80.27% with training. Intended to accomplish reliable and accurate airplane detection capabilities. <br/><img src='/images/500x300.png'>"
 collection: portfolio
+date: 2199-01-01
+venue: 'YOLOv7, Faster RCNN, Hyperparameter tuning'
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
