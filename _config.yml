@@ -215,7 +215,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  academic_projects:
+  Academic Projects:
     output: true
     permalink: /:collection/:path/
   talks:
