@@ -1,7 +1,7 @@
 ---
 title: "AgeWise.ai"
 excerpt: "Developed AgeWise, a facial recognition project that predicts a person’s age range based on their facial features. Achieved competitive accuracy by applying superior Deep Learning approaches and the possibility to customize skincare products. The model was developed using Machine Learning and Deep Learning and hence we were able to detect dark spots, puffy eyes and wrinkles on images in order to understand ageing signs.<br/><img src='/images/500x300.png'>"
-collection: portfolio
+collection: Academic Projects
 date: 2199-01-01
 venue: 'Image Pre-processing, CNN, Feature Extraction, Deep Learning'
 ---
