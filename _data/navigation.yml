@@ -8,8 +8,8 @@ main:
   - title: "Publications"
     url: /publications/ 
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "academic_projects"
+    url: /academic_projects/
         
   - title: "Projects"
     url: /year-archive/

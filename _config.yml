@@ -217,7 +217,7 @@ collections:
     permalink: /:collection/:path/
   academic_projects:
     output: true
-    permalink: /academic_projects/:path/
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
