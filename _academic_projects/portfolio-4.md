@@ -1,6 +1,6 @@
 ---
 title: "CredSense"
-excerpt: "During the online application process, the company seeks to automate (in real time) the loan qualification process based on the information entered by the customer. ML models will help the company predict loan approvals, thereby speeding up the decision-making process for determining whether or not an applicant is eligible for a loan.<br/><img src='/images/loan.png'>"
+excerpt: "During the online application process, the company seeks to automate (in real time) the loan qualification process based on the information entered by the customer. ML models will help the company predict loan approvals, thereby speeding up the decision-making process for determining whether or not an applicant is eligible for a loan.<br/><img src='/images/loan.png' style='width:50%;'>"
 date: 2199-01-01
 venue: 'Decision Tree, Random Forest, Naive Bayes'
 collection: academic_projects
