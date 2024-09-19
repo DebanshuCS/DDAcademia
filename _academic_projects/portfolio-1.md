@@ -9,8 +9,4 @@ tags:
   - Feature Extraction
 ---
 
-<div style="text-align: center; margin-top: 20px;">
-  <a href="https://github.com/DebanshuCS/Ageing-signs-Identification-" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; border-radius: 5px; text-decoration: none;">
-    View the project on GitHub
-  </a>
-</div>
+<https://github.com/DebanshuCS/Ageing-signs-Identification->
