@@ -14,17 +14,27 @@ Greetings, I am a recent graduate from the School of Computer Science at XIM Uni
 
 Through my coursework, I have gained extensive knowledge working with a diverse range of technologies, particularly in the field of data science. This has allowed me to develop a comprehensive skill set that empowers me to drive innovation. I possess capability in various areas within data science, enabling me to effectively analyze and extract valuable insights from complex datasets. I am adept at utilizing cutting-edge tools and techniques to derive meaningful conclusions and make informed decisions.
 
-| ![Deep Learning Icon](images/deep-learning.png) | ![Attack Graph Icon](images/Attack graph.png) | ![Process Mining Icon](images/cloud.png) |
-|:--:|:--:|:--:|
-| **Deep Learning** | **Attack Graph** | **Process Mining** |
+<div style="display: flex; align-items: center; gap: 20px;">
+    <div style="text-align: center;">
+        <img src="images/deep-learning.png" alt="Deep Learning Icon" width="40"/>
+        <div style="font-weight: bold;">Deep Learning</div>
+    </div>
+    <div style="text-align: center;">
+        <img src="images/Attack graph.png" alt="Attack Graph Icon" width="40"/>
+        <div style="font-weight: bold;">Attack Graph</div>
+    </div>
+    <div style="text-align: center;">
+        <img src="images/cloud.png" alt="Cyber Risk Management Icon" width="40"/>
+        <div style="font-weight: bold;">Process Mining</div>
+    </div>
+</div>
 
 <br/><!-- Adds two line breaks for extra space -->
 
 **Experience**
 ======
 
-```markdown
-Research Fellow
+## Research Fellow
 
 **Birla Institute of Technology and Science, Pilani**  
 *Jul 2023 - Aug 2024 · 1 yr 2 mos | South Goa, India (On-site)*  
