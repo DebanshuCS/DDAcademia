@@ -46,7 +46,7 @@ Looking ahead, I am dedicated to advancing research in the security of CPS using
 <div style="display: flex; flex-wrap: wrap; gap: 1.5rem;">
 
   <div style="border: 1px solid #ddd; padding: 1rem; border-radius: 8px; width: 45%; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
-    
+    <img src="https://cdn-icons-png.flaticon.com/128/2620/2620404.png" alt="Research Icon" width="30" style="float: left; margin-right: 10px;">
     <h3>Research Fellow</h3>
     <p><strong>Birla Institute of Technology and Science, Pilani</strong> <br>
     <em>Jul 2023 - Aug 2024 · 1 yr 2 mos | South Goa, India (On-site)</em></p>
@@ -55,6 +55,7 @@ Looking ahead, I am dedicated to advancing research in the security of CPS using
   </div>
 
   <div style="border: 1px solid #ddd; padding: 1rem; border-radius: 8px; width: 45%; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
+    <img src="https://cdn-icons-png.flaticon.com/128/948/948265.png" alt="Thesis Icon" width="30" style="float: left; margin-right: 10px;">
     <h3>Bachelor's Thesis</h3>
     <p><strong>Xavier Institute of Management (XIM Bhubaneswar)</strong> <br>
     <em>Jul 2022 - Mar 2023 · 9 mos | Bhubaneswar, India (On-site)</em></p>
