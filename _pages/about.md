@@ -31,7 +31,6 @@ Through my coursework, I have gained extensive knowledge working with a diverse 
 
 <br/><br/> <!-- Adds two line breaks for extra space -->
 
-
 # **Research Statement**
 
 I feel compelled to convey the trajectory of my academic journey, research aspirations, and commitment to advancing Artificial Intelligence (AI) within the field of Cyber-Physical Systems (CPS) security. My academic interests have always been rooted in understanding complex systems and solving intricate, real-world problems. During my undergraduate studies, my thesis, titled "Rumor Detection using Deep Learning Techniques," marked my initial foray into applied AI research, wherein I developed an end-to-end framework for early rumor detection on social media. This work not only demonstrated AI's potential in addressing pressing societal issues but also reinforced my desire to pursue AI-focused research.
@@ -41,13 +40,11 @@ My interest in CPS security crystallized during my first research fellowship in 
 Looking ahead, I am dedicated to advancing research in the security of CPS using AI. My proposed research aims to develop robust AI-driven models for preemptive security in CPS, focusing on anomaly detection, real-time threat assessment, and the secure orchestration of interconnected systems. Through a combination of deep learning methodologies, probabilistic reasoning, and system-level modeling, I intend to design scalable frameworks capable of addressing the unique security challenges that arise in interdisciplinary CPS applications. This research promises to make meaningful contributions to AI-driven CPS security, bridging theoretical advancements with practical, resilient solutions for the digital infrastructures of tomorrow.
 
 # **Experience**
-
 ---
 
 <div style="display: flex; flex-wrap: wrap; gap: 1.5rem;">
 
   <div style="border: 1px solid #ddd; padding: 1rem; border-radius: 8px; width: 45%; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
-    <img src="https://cdn-icons-png.flaticon.com/128/2761/2761632.png" alt="Research Icon" width="30" style="float: left; margin-right: 10px;">
     <h3>Research Fellow</h3>
     <p><strong>Birla Institute of Technology and Science, Pilani</strong> <br>
     <em>Jul 2023 - Aug 2024 · 1 yr 2 mos | South Goa, India (On-site)</em></p>
@@ -56,7 +53,6 @@ Looking ahead, I am dedicated to advancing research in the security of CPS using
   </div>
 
   <div style="border: 1px solid #ddd; padding: 1rem; border-radius: 8px; width: 45%; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
-    <img src="https://cdn-icons-png.flaticon.com/128/2867/2867856.png" alt="Thesis Icon" width="30" style="float: left; margin-right: 10px;">
     <h3>Bachelor's Thesis</h3>
     <p><strong>Xavier Institute of Management (XIM Bhubaneswar)</strong> <br>
     <em>Jul 2022 - Mar 2023 · 9 mos | Bhubaneswar, India (On-site)</em></p>
@@ -65,7 +61,6 @@ Looking ahead, I am dedicated to advancing research in the security of CPS using
   </div>
 
   <div style="border: 1px solid #ddd; padding: 1rem; border-radius: 8px; width: 45%; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
-    <img src="https://cdn-icons-png.flaticon.com/128/3125/3125870.png" alt="Data Science Icon" width="30" style="float: left; margin-right: 10px;">
     <h3>Data Science Intern</h3>
     <p><strong>The Sparks Foundation</strong> <br>
     <em>Jun 2021 - Jul 2021 · 2 mos | Singapore (Remote)</em></p>
@@ -74,7 +69,6 @@ Looking ahead, I am dedicated to advancing research in the security of CPS using
   </div>
 
   <div style="border: 1px solid #ddd; padding: 1rem; border-radius: 8px; width: 45%; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
-    <img src="https://cdn-icons-png.flaticon.com/128/1795/1795389.png" alt="Internship Icon" width="30" style="float: left; margin-right: 10px;">
     <h3>Data Science Intern</h3>
     <p><strong>Verzeo</strong> <br>
     <em>Jan 2021 - Mar 2021 · 3 mos</em></p>
@@ -87,7 +81,6 @@ Looking ahead, I am dedicated to advancing research in the security of CPS using
   </div>
 
   <div style="border: 1px solid #ddd; padding: 1rem; border-radius: 8px; width: 45%; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
-    <img src="https://cdn-icons-png.flaticon.com/128/888/888958.png" alt="Business Icon" width="30" style="float: left; margin-right: 10px;">
     <h3>Business Development Intern</h3>
     <p><strong>MyCaptain</strong> <br>
     <em>Jan 2021 - Feb 2021 · 2 mos</em></p>
