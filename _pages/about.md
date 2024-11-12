@@ -23,7 +23,8 @@ Through my coursework, I have gained extensive knowledge working with a diverse 
 **Experience**
 ======
 
-## Research Fellow
+```markdown
+Research Fellow
 
 **Birla Institute of Technology and Science, Pilani**  
 *Jul 2023 - Aug 2024 · 1 yr 2 mos | South Goa, India (On-site)*  
