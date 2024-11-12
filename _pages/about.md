@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👋 Greetings! I am a CS graduate from the School of Computer Science at XIM University. Recently, I worked as a researcher on a sponsored project, PAST: Predictor and Analyzer of Security Threats 🔍, at BITS Pilani, Goa. I extend a warm welcome to you as you explore my portfolio. My primary area of specialization lies within the field of AI-driven threat analysis 🤖, where I have dedicated significant time and effort to honing my expertise. Thank you for taking the time to explore my portfolio; I trust it will offer valuable insights into my accomplishments. 🙏
+Greetings! I am a CS graduate from the School of Computer Science at XIM University. Recently, I worked as a researcher on a sponsored project, PAST: Predictor and Analyzer of Security Threats, at BITS Pilani. I extend a warm welcome to you as you explore my portfolio. My primary area of specialization lies within the field of AI-driven threat analysis, where I have dedicated significant time and effort to honing my expertise. Thank you for taking the time to explore my portfolio; I trust it will offer valuable insights into my accomplishments.
 
 **Research Statement**
 
@@ -96,4 +96,3 @@ Through my coursework, I have gained extensive knowledge working with a diverse 
   </div>
 
 </div>
-
