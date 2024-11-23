@@ -8,5 +8,5 @@ date: 2024-08-01
 venue: '29th IEEE Pacific Rim International Symposium on Dependable Computing (PRDC 2024)'
 slidesurl: 'http://na'
 paperurl: 'http://na'
-citation: 'Accepted Recently.'
+citation: 'Kumar, R., Pandey, S. and Das, D., PALM: A framework to identify novel attacks in an e-commerce system..'
 ---
